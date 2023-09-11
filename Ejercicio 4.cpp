@@ -1,6 +1,6 @@
 //Cesar Alejandro Velazquez Mercado
 //372329
-//Es Chimchampu pero contra la maquina
+//Me dice la tabla de multiplicar de un numero del 1 al 20
 //10/09/2023
 #include <stdio.h>
 #include <stdlib.h>

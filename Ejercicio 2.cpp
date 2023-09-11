@@ -1,6 +1,6 @@
 //Cesar Alejandro Velazquez Mercado
 //372329
-//Es Chimchampu pero contra la maquina
+//Me da 200 numeros aleatorios y me dice cuantos par e impar hay
 //10/09/2023
 #include <stdio.h>
 #include <stdlib.h>

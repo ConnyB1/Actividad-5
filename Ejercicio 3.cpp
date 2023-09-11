@@ -1,6 +1,6 @@
 //Cesar Alejandro Velazquez Mercado
 //372329
-//Es Chimchampu pero contra la maquina
+//Me pide numeros aleatorios y me dice cual es menor y cual mayor
 //10/09/2023
 #include <stdio.h>
 #include <stdlib.h>

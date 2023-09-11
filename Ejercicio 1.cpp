@@ -1,6 +1,6 @@
 //Cesar Alejandro Velazquez Mercado
 //372329
-//Es Chimchampu pero contra la maquina
+//Me pide un valor y me lo da en orden descendente
 //10/09/2023
 #include <stdio.h>
 #include <stdlib.h>
